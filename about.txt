@@ -1,0 +1,3 @@
+Asritha
+BCA
+Repository is a directory to store files in github
